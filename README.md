@@ -1,4 +1,4 @@
 # github_learning
 This is my First github repo
 <br>
-Author - Yatharth Gill
+Author - Yatharth Chaudhary
